@@ -1,5 +1,6 @@
 <template>
 	<div id="app">
+		11111
 		<transition name="fade"
 		            mode="out-in">
 			<router-view></router-view>
